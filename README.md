@@ -2,6 +2,8 @@
 
 Authur：Xumin Gao, Jing Zhao(Tom).
 
+E-mail: comin15071460998@gmail.com
+
 # Requirements
 
 - Cmake 3.1
