@@ -82,7 +82,7 @@ cd ..
 
 
 
-#Abstrct
+#Abstract
 
 We developed an algorithm to classify different categories of vehicles. The vehicle was classified by a random forest model, pre-trained by HOG features extracted from different parts in the vehicle images. The accuracy reached 91.26%. Moreover, the classification only needed 0.012s on the CPU for one image with 1024x1024 size. The prediction time was greatly shortened compared with the convolutional neural network. 
 
