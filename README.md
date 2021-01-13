@@ -92,7 +92,7 @@ After the vehicle was classified, we reconstructed the 3D model of the vehicle b
 
 ***We have opened source the code of vehicle recognition. But we still cannot open source the code of vehicle 3D modeling due to confidentiality agreement.
 
-![Image text](https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg) 
+![Image text](https://github.com/XuminGaoGithub/Vehicle-recognition/blob/main/1.png) 
 
 
 
