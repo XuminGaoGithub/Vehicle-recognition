@@ -25,7 +25,7 @@ sudo apt-get install libconfig++-dev libconfig-dev
 sudo apt install libgl-dev libglu-dev libglib2.0-dev libsm-dev libxrender-dev libfontconfig1-dev libxext-dev
 
 
-# Usage
+## Usage
 
 ### ./bin or RandomForest1:
 
