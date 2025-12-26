@@ -1,6 +1,6 @@
 ## A fast and effective vehicle recognition algorithm based on HOG and Random Forest (July 2019)
 
-Authur：Tom, Xumin Gao (Qingdao Smart Ground Vehicle Intelligent Technology Co. Ltd)
+Authors：Tom, Xumin Gao (Qingdao Smart Ground Vehicle Intelligent Technology Co. Ltd)
 
 ## Requirements
 
