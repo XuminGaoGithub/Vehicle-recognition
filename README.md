@@ -84,11 +84,10 @@ cd ..
 
 ## Abstract
 
-We developed an algorithm to classify different categories of vehicles. The vehicle was classified by a random forest model, pre-trained by HOG features extracted from different parts in the vehicle images. The accuracy reached 91.26%. Moreover, the classification only needed 0.012s on the CPU for one image with 1024x1024 size. The prediction time was greatly shortened compared with the convolutional neural network. 
+We developed an algorithm for classifying different categories of vehicles. The classification is performed using a random forest model that is pre-trained on HOG features extracted from multiple regions of vehicle images. 
 
 After the vehicle was classified, we reconstructed the 3D model of the vehicle by extracting feature points and the depth information of the corresponding category of vehicles.
 
-***We have opened source the code of vehicle recognition. But we still cannot open source the code of vehicle 3D modeling due to confidentiality agreement.
 
 ![Image text](https://github.com/XuminGaoGithub/Vehicle-recognition/blob/main/1.png) 
 
